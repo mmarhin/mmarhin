@@ -9,10 +9,10 @@
 
 ## 🛠 Tecnologías y Herramientas  
 - **Lenguajes**: Python, JavaScript, C, Bash  
-- **Ciberseguridad**: Análisis forense, pentesting, criptografía  
-- **Inteligencia Artificial**: Machine Learning, Deep Learning, NLP  
+- **Ciberseguridad**: Análisis forense, criptografía  
+- **Inteligencia Artificial**: Machine Learning, Deep Learning  
 - **Sistemas Operativos**: **Manejo avanzado en Linux/Unix** (administración, hardening, scripting, redes)  
-- **Desarrollo Web**: HTML, CSS, React, Node.js  
+- **Desarrollo Web**: HTML, CSS 
 - **Bases de datos**: MySQL, MongoDB  
 - **Herramientas**: Git, Docker, Wireshark, Metasploit  
 
@@ -43,10 +43,10 @@
 
 ## 🛠 Technologies & Tools  
 - **Languages**: Python, JavaScript, C, Bash  
-- **Cybersecurity**: Forensic analysis, pentesting, cryptography  
-- **Artificial Intelligence**: Machine Learning, Deep Learning, NLP  
+- **Cybersecurity**: Forensic analysis, cryptography  
+- **Artificial Intelligence**: Machine Learning, Deep Learning  
 - **Operating Systems**: **Advanced Linux/Unix proficiency** (administration, hardening, scripting, networking)  
-- **Web Development**: HTML, CSS, React, Node.js  
+- **Web Development**: HTML, CSS
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Git, Docker, Wireshark, Metasploit  
 
