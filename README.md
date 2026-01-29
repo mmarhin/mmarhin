@@ -93,9 +93,10 @@ My focus is on the intersection of **Deep Learning**, **Vulnerability Research**
 ### GitHub Analytics
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Mario's GitHub Stats" />
-  <br>
-  <img src="./profile/langs.svg" alt="Top Languages" />
+  <a href="https://github.com/mmarhin">
+    <img height="180em" src="./profile/stats.svg" alt="Mario's GitHub Stats" />
+    <img height="180em" src="./profile/langs.svg" alt="Top Languages" />
+  </a>
 </div>
 
 ---
