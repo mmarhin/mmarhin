@@ -23,12 +23,24 @@ Dual-profile engineer combining rigorous academic training in **Cybersecurity & 
 
 My focus is on the intersection of **Deep Learning**, **Vulnerability Research**, and **Secure Architecture**. I don't just use tools—I build them from scratch (C/Unix) and enhance them with AI.
 
-| | |
-|:---|:---|
-| **Currently working on** | Advanced Deep Learning models for financial prediction & SAST tools |
-| **Experience** | Tech Mentor at Google.org Cyber Bootcamp (Trained 100+ students) |
-| **Education** | University of Málaga (GPA 10/10 Honors) & 42 Málaga |
-| **Soft Skills** | Technical Leadership, Mentorship, Communication |
+<table>
+  <tr>
+    <td width="200px"><strong>Currently working on</strong></td>
+    <td>Advanced Deep Learning models for financial prediction & SAST tools</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong></td>
+    <td>Tech Mentor at Google.org Cyber Bootcamp (Trained 100+ students)</td>
+  </tr>
+  <tr>
+    <td><strong>Education</strong></td>
+    <td>University of Málaga & 42 Málaga</td>
+  </tr>
+  <tr>
+    <td><strong>Soft Skills</strong></td>
+    <td>Technical Leadership, Mentorship, Communication</td>
+  </tr>
+</table>
 
 ---
 
@@ -81,9 +93,9 @@ My focus is on the intersection of **Deep Learning**, **Vulnerability Research**
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Mario's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
