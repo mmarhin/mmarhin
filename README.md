@@ -93,9 +93,9 @@ My focus is on the intersection of **Deep Learning**, **Vulnerability Research**
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Mario's GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Mario's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="./profile/langs.svg" alt="Top Languages" />
 </div>
 
 ---
