@@ -1,65 +1,95 @@
-# 🛡️ Mario Marín Hinojosa  
-
-🔹 **Ciberseguridad | Inteligencia Artificial | Desarrollo de Software**  
-📍 Estudiante de **Ciberseguridad e Inteligencia Artificial** en la Universidad de Málaga (UMA).  
-📍 Formándome en **Desarrollo de Software y Programación** en 42.  
-💡 Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas complejos.  
-
----
-
-## 🛠 Tecnologías y Herramientas  
-- **Lenguajes**: Python, JavaScript, C, Bash  
-- **Ciberseguridad**: Análisis forense, criptografía  
-- **Inteligencia Artificial**: Machine Learning, Deep Learning  
-- **Sistemas Operativos**: **Manejo avanzado en Linux/Unix** (administración, hardening, scripting, redes)  
-- **Desarrollo Web**: HTML, CSS 
-- **Bases de datos**: MySQL, MongoDB  
-- **Herramientas**: Git, Docker, Wireshark, Metasploit  
-
----
-
-## 📊 Estadísticas de GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=dark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=compact&theme=dark)  
+<div align="center">
+  <h1>Mario Marín Hinojosa</h1>
+  <h3>Cybersecurity & AI Engineering Student | Systems Programmer</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mmarhin/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:mariomh2005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://portfolio-mmarhin.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Mar%C3%ADn-blue?style=flat-square&logo=linkedin)](https://es.linkedin.com/in/mario-mar%C3%ADn-hinojosa-9924aa214)  
+### About Me
 
-✨ Siempre abierto a oportunidades de colaboración en proyectos de ciberseguridad e IA. 🚀  
+Dual-profile engineer combining rigorous academic training in **Cybersecurity & Artificial Intelligence** (UMA) with high-performance systems programming skills from **42 Málaga**.
 
----
+My focus is on the intersection of **Deep Learning**, **Vulnerability Research**, and **Secure Architecture**. I don't just use tools—I build them from scratch (C/Unix) and enhance them with AI.
 
-# 🛡️ Mario Marín Hinojosa (English Version)  
-
-🔹 **Cybersecurity | Artificial Intelligence | Software Development**  
-📍 Studying **Cybersecurity and Artificial Intelligence** at the University of Málaga (UMA).  
-📍 Training in **Software Development and Programming** at 42.  
-💡 Passionate about technology, continuous learning, and solving complex problems.  
-
----
-
-## 🛠 Technologies & Tools  
-- **Languages**: Python, JavaScript, C, Bash  
-- **Cybersecurity**: Forensic analysis, cryptography  
-- **Artificial Intelligence**: Machine Learning, Deep Learning  
-- **Operating Systems**: **Advanced Linux/Unix proficiency** (administration, hardening, scripting, networking)  
-- **Web Development**: HTML, CSS
-- **Databases**: MySQL, MongoDB  
-- **Tools**: Git, Docker, Wireshark, Metasploit  
+| | |
+|:---|:---|
+| **Currently working on** | Advanced Deep Learning models for financial prediction & SAST tools |
+| **Experience** | Tech Mentor at Google.org Cyber Bootcamp (Trained 100+ students) |
+| **Education** | University of Málaga (GPA 10/10 Honors) & 42 Málaga |
+| **Soft Skills** | Technical Leadership, Mentorship, Communication |
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=dark)  
+### Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=compact&theme=dark)  
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Financial Predictive Transformer**](https://github.com/mmarhin/Financial-Predictive-Transformer) | Hybrid Deep Learning model (Transformer + Static Context) to apply Value Investing. Built ETL pipeline for 10 years of financial data. | `PyTorch` `Pandas` `ETL` `Deep Learning` |
+| [**Minishell**](https://github.com/mmarhin/Minishell) | Custom Linux shell re-engineered from scratch in C. Handles process creation, signal handling, pipes, redirections, tokenization and manual memory management. | `C` `Unix` `Bash` `Systems Programming` |
+| [**MNDefender**](https://github.com/Alman368/MNDefender) | SAST Vulnerability Analysis System integrating NIST NVD API for real-time CVE detection. | `Python` `Flask` `Docker` `SQL` `NIST API` |
+| **Gymeatai (in progress)** | AI Health APP leveraging AI for personalized fitness and nutrition plans based on user health data. | `AI` `Mobile Dev` `UI/UX` |
 
 ---
 
-## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Mar%C3%ADn-blue?style=flat-square&logo=linkedin)](https://es.linkedin.com/in/mario-mar%C3%ADn-hinojosa-9924aa214)  
+### Technical Skills
 
-✨ Always open to collaboration opportunities in cybersecurity and AI. 🚀  
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>AI & Data Science</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Security & DevOps</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Forensics-282C34?style=flat-square&logo=hackaday&logoColor=white" />
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmarhin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarhin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <em>"Effective security is as much about people as it is about algorithms."</em>
+  <br><br>
+  <strong>Málaga, Spain</strong> · Open to Summer 2026 Internships
+</div>
