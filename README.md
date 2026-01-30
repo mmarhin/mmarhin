@@ -26,7 +26,7 @@ My focus is on the intersection of **Deep Learning**, **Vulnerability Research**
 <table>
   <tr>
     <td width="200px"><strong>Currently working on</strong></td>
-    <td>Advanced Deep Learning models for financial prediction & SAST tools</td>
+    <td>Advanced Deep Learning models for financial prediction & Software Development</td>
   </tr>
   <tr>
     <td><strong>Experience</strong></td>
